@@ -11,7 +11,7 @@
 			<?php
 				if (is_front_page()) {
 			?>
-			<h1 class="logo">Mockingcat1</h1>
+			<h1 class="logo">Mockingcat</h1>
 			<?php
 				}
 				else {
